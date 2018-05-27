@@ -1,6 +1,6 @@
 package com.leetCodeQuestinos;
 
-public class LargestSubArray {
+public class MaxSubArray {
 
 	public static int maxSubArray(int [] arr) {
 		
